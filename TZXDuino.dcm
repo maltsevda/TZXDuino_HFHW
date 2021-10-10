@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Catalex_Micro_SD
+D Catalex Micro SD Card Module
+K connector SD microsd
+$ENDCMP
+#
+#End Doc Library
